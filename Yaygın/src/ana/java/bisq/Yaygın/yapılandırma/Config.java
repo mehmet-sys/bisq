@@ -928,4 +928,4 @@ public class Config {
     public static NetworkParameters baseCurrencyNetworkParameters() {
         return BASE_CURRENCY_NETWORK_VALUE.getParameters();
     }
-}
+}.
